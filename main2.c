@@ -4,7 +4,7 @@
 int main(void)
 
 {
-short a = -5;
+char a = -5;
 
 for (int i = 7; i >= 0; i--)
 {
