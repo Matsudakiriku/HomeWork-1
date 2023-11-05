@@ -4,7 +4,7 @@
 int main(void)
 
 {
- char a = 5;
+int a = 5;
  int count = 0;
 
 for (int i = 7; i >= 0; i--)
